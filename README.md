@@ -29,3 +29,5 @@ Feel free to also check out the material from the [spring 2025](https://github.c
    * See end of notebook for hands-on implementation of the fake news algorithm, which is generalized in [`sim_fake_news.py`](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/sim_fake_news.py). Also see this [note from a previous class](https://mrognlie.github.io/econ411-3/econ411_3_lecture7_supplement.pdf) explaining the algorithm.
 
 4. [Intro to HANK: Monetary Policy](https://shade-econ.github.io/goethe-workshop-2026/lecture4_monetary.pdf), Adrien Auclert. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture4_monetary.ipynb)] [key paper: [Annual Review](https://shade-econ.github.io/annual-review/annual_review_hank.pdf)]
+
+5. [SSJ toolkit and approach](https://shade-econ.github.io/goethe-workshop-2026/lecture5_ssj_toolkit.pdf) [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture5_ssj_toolkit.ipynb)]
