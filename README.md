@@ -30,4 +30,4 @@ Feel free to also check out the material from the [spring 2025](https://github.c
 
 4. [Intro to HANK: Monetary Policy](https://shade-econ.github.io/goethe-workshop-2026/lecture4_monetary.pdf), Adrien Auclert. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture4_monetary.ipynb)] [key paper: [Annual Review](https://shade-econ.github.io/annual-review/annual_review_hank.pdf)]
 
-5. [SSJ toolkit and approach](https://shade-econ.github.io/goethe-workshop-2026/lecture5_ssj_toolkit.pdf) [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture5_ssj_toolkit.ipynb)]
+5. [SSJ toolkit and approach](https://shade-econ.github.io/goethe-workshop-2026/lecture5_ssj_toolkit.pdf), Matthew Rognlie. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture5_ssj_toolkit.ipynb)] [SSJ toolkit website](https://github.com/shade-econ/sequence-jacobian/)
