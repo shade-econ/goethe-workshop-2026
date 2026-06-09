@@ -42,3 +42,5 @@ Feel free to also check out the material from the [spring 2025](https://github.c
 9. [Household Portfolios](https://shade-econ.github.io/goethe-workshop-2026/lecture9_portfolios.pdf), Adrien Auclert. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture9_portfolios.ipynb)] [reference: [portfolio note](https://shade-econ.github.io/hank_portfolios_preliminary.pdf)]
 
 10. [Determinacy and Large-Scale Models](https://shade-econ.github.io/goethe-workshop-2026/lecture10_determinacy_largescale.pdf), Matthew Rognlie. [[notebook part 1: quasi-Toeplitz and determinacy](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture10a_determinacy.ipynb)] [[notebook part 2: large-scale multicountry model](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture10b_largescale.ipynb)] [key paper: [determinacy paper](https://shade-econ.github.io/determinacy_sequence_space.pdf)]
+
+11. [Heterogeneous Firms](https://shade-econ.github.io/goethe-workshop-2026/lecture11_heterogeneous_firms.pdf), [key paper: [WARS](https://web.stanford.edu/~aauclert/wars.pdf)]
