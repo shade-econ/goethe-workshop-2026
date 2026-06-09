@@ -44,3 +44,12 @@ Feel free to also check out the material from the [spring 2025](https://github.c
 10. [Determinacy and Large-Scale Models](https://shade-econ.github.io/goethe-workshop-2026/lecture10_determinacy_largescale.pdf), Matthew Rognlie. [[notebook part 1: quasi-Toeplitz and determinacy](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture10a_determinacy.ipynb)] [[notebook part 2: large-scale multicountry model](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture10b_largescale.ipynb)] [key paper: [determinacy paper](https://shade-econ.github.io/determinacy_sequence_space.pdf)]
 
 11. [Heterogeneous Firms](https://shade-econ.github.io/goethe-workshop-2026/lecture11_heterogeneous_firms.pdf), Adrien Auclert. [key paper: [WARS](https://web.stanford.edu/~aauclert/wars.pdf)]
+
+### Wednesday, June 10
+15. [Open Economy HANK](https://shade-econ.github.io/goethe-workshop-2026/lecture15_open_economy.pdf), Ludwig Straub. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture15_open_economy.ipynb)] [key paper: [open-economy HANK](https://shade-econ.github.io/ha_oe.pdf)]
+
+16. [Pricing Models in the Sequence Space](https://shade-econ.github.io/goethe-workshop-2026/lecture16_pricing_models.pdf), Ludwig Straub. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture16_pricing_models.ipynb)] [key paper: [Phillips curves](https://shade-econ.github.io/new_old_phillips_curves.pdf)]
+
+17. [Information Frictions](https://shade-econ.github.io/goethe-workshop-2026/lecture17_info_frictions.pdf), Ludwig Straub. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture17_info_frictions.ipynb)] [key paper: [MJMH](https://shade-econ.github.io/mjmh.pdf)]
+
+18. [Optimal Long-Run Policy](https://shade-econ.github.io/goethe-workshop-2026/lecture18_optimal_longrun_policy.pdf), Ludwig Straub. [key paper: [Optimal Policy](https://shade-econ.github.io/rss_heterogeneity.pdf)]
