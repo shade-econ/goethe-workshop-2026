@@ -34,3 +34,5 @@ Feel free to also check out the material from the [spring 2025](https://github.c
 
 ### Tuesday, June 9
 6. [Monetary policy topics](https://shade-econ.github.io/goethe-workshop-2026/lecture6_monetary_topics.pdf), Adrien Auclert. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture6_monetary_topics.ipynb)] [key paper: [Annual Review](https://shade-econ.github.io/annual-review/annual_review_hank.pdf)]
+
+7. [Tutorial: Fiscal and monetary policy in SSJ](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture7_HANK_tutorial.ipynb), Ludwig Straub. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture7_HANK_tutorial.ipynb)]
