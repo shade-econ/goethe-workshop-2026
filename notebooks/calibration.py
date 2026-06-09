@@ -12,14 +12,20 @@ def load_betas(path="betas.json"):
         return json.load(f)
 
 
-def make_calibration(lowA=False):
-    """Default household calibration. See lecture1_sim.ipynb for details."""
+def make_grids():
+    """Shared asset and income grids. See lecture1_sim.ipynb for details."""
     rho_e = 0.91**(1/4)     # annual rho=0.91 from IKC
     sd_e = 0.92             # cross-sectional sd from IKC
     n_e = 11                # 11 points for Rouwenhorst approximation
     e, _, Pi_e = sim.discretize_income(rho_e, sd_e, n_e)
-
     a_grid = sim.discretize_assets(0, 4000, 400)
+    return a_grid, e, Pi_e
+
+
+def make_calibration(lowA=False):
+    """Default household calibration. See lecture1_sim.ipynb for details."""
+    a_grid, e, Pi_e = make_grids()
+    n_e = len(e)
 
     q = 0.01                # draw new beta every 25 years
     pi_b = np.array([1/4, 1/4, 1/4, 1/4])
