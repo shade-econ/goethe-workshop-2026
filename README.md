@@ -50,6 +50,8 @@ Feel free to also check out the material from the [spring 2025](https://github.c
 
     * See [`notebooks/smooth_sim/`](https://github.com/shade-econ/goethe-workshop-2026/tree/main/notebooks/smooth_sim) for supporting code, with the main routines in [`smooth_sim.py`](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/smooth_sim/smooth_sim.py).
 
+14. Higher-Order Sequence-Space Methods, Matthew Rognlie. Materials forthcoming.
+
 15. [Open Economy HANK](https://shade-econ.github.io/goethe-workshop-2026/lecture15_open_economy.pdf), Ludwig Straub. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture15_open_economy.ipynb)] [key paper: [open-economy HANK](https://shade-econ.github.io/ha_oe.pdf)]
 
 16. [Pricing Models in the Sequence Space](https://shade-econ.github.io/goethe-workshop-2026/lecture16_pricing_models.pdf), Ludwig Straub. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture16_pricing_models.ipynb)] [key paper: [Phillips curves](https://shade-econ.github.io/new_old_phillips_curves.pdf)]
