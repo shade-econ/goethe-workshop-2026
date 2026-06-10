@@ -46,6 +46,8 @@ Feel free to also check out the material from the [spring 2025](https://github.c
 11. [Heterogeneous Firms](https://shade-econ.github.io/goethe-workshop-2026/lecture11_heterogeneous_firms.pdf), Adrien Auclert. [key paper: [WARS](https://web.stanford.edu/~aauclert/wars.pdf)]
 
 ### Wednesday, June 10
+12. [A HANK Model for the Euro Area](https://shade-econ.github.io/goethe-workshop-2026/lecture12_euro_hank.pdf), Rodolfo Rigato.
+
 13. [Smooth Methods for the Standard Incomplete Markets Model](https://shade-econ.github.io/goethe-workshop-2026/lecture13_smooth.pdf), Matthew Rognlie. [[notebook](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/lecture13_smooth.ipynb)]
 
     * See [`notebooks/smooth_sim/`](https://github.com/shade-econ/goethe-workshop-2026/tree/main/notebooks/smooth_sim) for supporting code, with the main routines in [`smooth_sim.py`](https://github.com/shade-econ/goethe-workshop-2026/blob/main/notebooks/smooth_sim/smooth_sim.py).
