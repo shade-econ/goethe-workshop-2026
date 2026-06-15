@@ -13,6 +13,8 @@ Three key references for the workshop are:
 
 Feel free to also check out the material from the [spring 2025](https://github.com/shade-econ/nber-workshop-2025) and [spring 2023](https://github.com/shade-econ/nber-workshop-2023) NBER workshops.
 
+Finally, the `markdown/` folder contains Markdown transcriptions of all lecture slides for easier search and AI-assisted navigation.
+
 # Lectures
 
 ### Monday, June 8
