@@ -1,10 +1,8 @@
 # 2026 Goethe heterogeneous-agent macro workshop
 
-**Note: This repository is still in progress and will be updated Tuesday and Wednesday with additional lectures.**
+This repository provides materials and code for the 2026 Goethe Macro Training School for Heterogeneous-Agent Macroeconomics, held June 8–10, 2026 at Goethe University Frankfurt.
 
-This repository provides materials and code for the 2026 Goethe Macro Training School for Heterogeneous-Agent Macroeconomics, to be held June 8–10 at Goethe University Frankfurt. (See hourly schedule [here](https://sequence-space.com/goethe/).)
-
-Slides for each lecture will be included below. Most lectures will have accompanying notebooks, with code that generates figures from the slides or otherwise illustrates the methods of the lecture. Some notebooks require support files that are also contained in the `notebooks/` folder.
+Slides for each lecture are included below. All lectures except 11, 12, 14, and 18 have accompanying notebooks, with code that generates figures from the slides or otherwise illustrates the methods of the lecture. Some notebooks require support files that are also contained in the `notebooks/` folder.
 
 All code is in Python and requires the standard numerical Python libraries (`numpy`, `scipy`, `matplotlib`, `numba`, `pandas`). Later lecture notebooks, starting with lecture 5, will often require installing the [sequence-space Jacobian toolkit](https://github.com/shade-econ/sequence-jacobian).
 
